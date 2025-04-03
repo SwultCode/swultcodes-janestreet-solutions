@@ -1,0 +1,7 @@
+[package]
+name = "march-hall-of-mirrors-3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+once_cell = "1.18.0"
